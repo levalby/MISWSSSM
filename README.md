@@ -3,7 +3,7 @@ bachelor thesis repository<br>
 
 Please cite the following paper when using:<br>
 <pre>Alberto Levorato (2025): Medical Image Segmentation with Selective State Space Models<br>
-https://hdl.handle.net/****</pre>
+https://hdl.handle.net/20.500.12608/89706</pre>
 
                              
 Mamba models with nnU-Net structure and Dataset adaptation:<br>
